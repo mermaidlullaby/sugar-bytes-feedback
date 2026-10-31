@@ -4,6 +4,10 @@ This repository is the public place to follow the Sugar Bytes roadmap and review
 
 Sugar Bytes is a macro-tracking application focused on protein, carbohydrates, fat, and fiber.
 
+## You don't need a Github account
+
+If you do not have a Github account and don't want to submit an issue through here, [use the contact form instead](https://sugarbytes.app/contact). Feedback, feature requests and bug reports will be added manually if sent through the form, please allow up to 48 hours for me to do so.
+
 ## Report a bug
 
 Before opening a new issue, check the existing issues to see whether the problem has already been reported.
@@ -37,4 +41,4 @@ This repository contains publicly shareable feedback and roadmap information. It
 
 ## Privacy
 
-Do not post passwords, authentication tokens, private account details, or other sensitive personal information. If a report requires sharing private information, leave it out of the public issue and use an appropriate private contact channel instead. I recommend sending an email to <info@sugarbytes.app>
+Do not post passwords, authentication tokens, private account details, or other sensitive personal information. If a report requires sharing private information, leave it out of the public issue and use an appropriate private contact channel instead. I recommend sending an email to <info@sugarbytes.app> or [using the contact form instead](https://sugarbytes.app/contact).
