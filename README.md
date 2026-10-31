@@ -37,4 +37,4 @@ This repository contains publicly shareable feedback and roadmap information. It
 
 ## Privacy
 
-Do not post passwords, authentication tokens, private account details, or other sensitive personal information. If a report requires sharing private information, leave it out of the public issue and use an appropriate private contact channel instead.
+Do not post passwords, authentication tokens, private account details, or other sensitive personal information. If a report requires sharing private information, leave it out of the public issue and use an appropriate private contact channel instead. I recommend sending an email to <info@sugarbytes.app>
